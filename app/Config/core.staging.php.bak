@@ -1,0 +1,6 @@
+<?php
+
+
+Configure::write('devEnv', 'staging');
+Configure::write('debug', 0);
+

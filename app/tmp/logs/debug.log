@@ -1,0 +1,53 @@
+2017-02-07 08:55:49 Debug: access denied.
+2017-02-07 09:08:52 Debug: access denied.
+2017-02-07 09:10:36 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486451436</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[Unrecognized keyword]]></Content>
+                 </xml>
+2017-02-07 09:10:50 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486451450</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
+2017-02-07 09:11:22 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486451482</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
+2017-02-07 09:11:36 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486451496</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bobs]]></Content> </xml>
+2017-02-07 09:16:49 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486451809</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
+2017-02-07 09:20:37 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486452037</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[Unrecognized event]]></Content>
+                 </xml>
+2017-02-07 09:23:02 Debug: access denied.
+2017-02-07 09:24:06 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486452246</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[Welcome to our OA!]]></Content>
+                 </xml>
+2017-02-07 09:24:21 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486452261</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
+2017-02-07 09:27:31 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486452451</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[you have scanned a QR code]]></Content>
+                 </xml>
+2017-02-07 09:27:42 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486452462</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
+2017-02-07 10:04:28 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486454668</CreateTime> <MsgType><![CDATA[news]]></MsgType> <ArticleCount>2</ArticleCount> <Articles> <item> <Title><![CDATA[Kaboom.]]></Title> <Description><![CDATA[]]></Description> <PicUrl><![CDATA[http://s22.postimg.org/sb8rc1u0x/supernova_l.jpg]]></PicUrl> <Url><![CDATA[http://oahelper.lan/examples]]></Url> </item> <item> <Title><![CDATA[Supernova explodes - gas leak suspected]]></Title> <Description><![CDATA[]]></Description> <PicUrl><![CDATA[http://s12.postimg.org/gn83c1l3x/supernova_s.jpg]]></PicUrl> <Url><![CDATA[http://oahelper.lan/examples]]></Url> </item> </Articles> </xml>
+2017-02-07 10:40:20 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486456820</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[you have clicked v1002_weekly_music]]></Content>
+                 </xml>
+2017-02-07 10:40:32 Debug: <xml>
+                     <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName>
+                     <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName>
+                     <CreateTime>1486456832</CreateTime>
+                     <MsgType><![CDATA[text]]></MsgType>
+                     <Content><![CDATA[Unrecognized keyword]]></Content>
+                 </xml>
+2017-02-07 10:40:40 Debug: <xml> <ToUserName><![CDATA[odiYhs35C2APj0SnHv6DJ6wYEr8s]]></ToUserName> <FromUserName><![CDATA[gh_19bc99f1707a]]></FromUserName> <CreateTime>1486456840</CreateTime> <MsgType><![CDATA[text]]></MsgType> <Content><![CDATA[Hello Bob]]></Content> </xml>
